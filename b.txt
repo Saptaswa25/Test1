@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi, I am B. Thanks too!
+=======
+Hi, I am B. Now for third commit.
+>>>>>>> bike
